@@ -1,5 +1,5 @@
 # Overview
-Simple API testing framework starter project using RestSharp and NUnit.
+Simple API testing framework starter project using RestSharp (Version 106.15.0) and NUnit (3.13.3).
 
 # Target Version
 .NET 6.0
